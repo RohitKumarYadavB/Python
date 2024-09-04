@@ -1,3 +1,4 @@
+import copy
 n = int(input("Enter Number: "))
 
 copy = n

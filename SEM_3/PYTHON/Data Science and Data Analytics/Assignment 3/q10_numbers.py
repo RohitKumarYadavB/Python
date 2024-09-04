@@ -1,4 +1,4 @@
-for i in range(10):
+for i in range(5):
     print(f"{i}. Print Number {i}")
 n = int(input("Enter Choice: "))
 match n:
